@@ -1,0 +1,18 @@
+{
+  "name": "lnj/cms",
+  "description": "Cms For lnjGroup",
+  "authors": [
+    {
+      "name": "Hossein Jafari",
+      "email": "j.hossein024@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LnjGroup\\Cms\\": "src/"
+    }
+  },
+  "require": {
+    "Illuminate/Support": "~5"
+  }
+}
